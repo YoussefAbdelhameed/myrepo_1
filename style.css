@@ -11,5 +11,8 @@ background-color: #0085ff;
 display: flex;
 justify-content: center;
 align-items: center;
+flex-direction: column;
+min-height: 80vh;
+gap: 50px;
 
 }
